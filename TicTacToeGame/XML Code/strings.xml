@@ -1,0 +1,89 @@
+<resources>
+    <string name="app_name">TicTacToeGame</string>
+    <string name="Main_Menu">Tic Tac Toe</string>
+    <string name="option1">Human VS Computer</string>
+    <string name="option2">Human VS Human</string>
+    <string name="option3">Background and How to play</string>
+    <string name="exit">Exit App</string>
+    <string name="exit_back">Back To Main Menu</string>
+
+    <string name="how">How To Play</string>
+    <string name="works">How App Works</string>
+    <string name="background">Background </string>
+    <string name="descb1"> Click the button below to learn how to play</string>
+
+    <string name="descb3"> Click the button below to learn some background info about Tic Tac Toe</string>
+    <string name="exit_info"> Back To Info</string>
+    <string name="reset">Reset Scores</string>
+  <string name ="FunFacts">Click the button below for some fun facts </string>
+<string name = "fun">Fun Facts</string>
+    <string name="title_activity_information">Information</string>
+    <string name="title_activity_tic_tac_toe_info">TicTacToeInfo</string>
+
+    <string name="how_to_play">&#160;
+        Each turn you and the opponent/second player will pick spots on the board to place an X and O respectively\n
+        &#160;In order to win at Tic Tac Toe you need to match three Xs or Os in a row. \n
+
+
+
+    </string>
+    <string name="how_to">You can do this in three different ways: vertical, horizontal and diagonal</string>
+    <string name="tie_option">If the board is filled and neither player has three Xs or three Os in a row then the game is a tie</string>
+    <string name="origin_part_one">Tic Tac Toe was created in ancient rome around the first century BCE</string>
+    <string name="origin_part_two">Tic Tac Toe was first called Terni Lapilli</string>
+    <string name="origin_part_three">This game played a little differently</string>
+    <string name="origin_part_four">&#160;&#160;In Terni Lapilli each player had only three pieces
+    and once all pieces were on the board,the two players would use what is on the board to continue playing
+    </string>
+   <string name="other_games">&#160;Games that are heavily influenced by Tic Tac Toe</string>
+
+
+
+    <string name="first_human">You go first.</string>
+    <string name="turn_human">Your turn.</string>
+    <string name="turn_computer">Android\'s turn.</string>
+    <string name="turn_player_one">Player One\'s Turn.</string>
+    <string name="turn_player_two">Player Two\'s Turn.</string>
+    <string name="result_tie">It\'s a tie!</string>
+    <string name="result_human_wins">You Won!</string>
+    <string name="result_android_wins">Computer Won!</string>
+    <string name="result_player_one_wins">Player One Wins!</string>
+    <string name="result_player_two_wins">Player Two Wins!</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+    <string name="info">Info</string>
+    <string name="human">Human:  </string>
+    <string name="player_one">Player One:  </string>
+    <string name="ties">Ties:  </string>
+    <string name="android">Computer:  </string>
+    <string name="player_two">Player Two:  </string>
+    <string name="contact_heading">Contact Info</string>
+    <string name="contact_info">
+        <b>Name:</b> Philip Stine\n
+        <b>Email:</b> psstine@neiu.edu\n
+
+    </string>
+
+
+    <string name="newGame_label">New Game</string>
+    <string name="exitGame_label">Exit Game</string>
+    <string name="hvc">Human VS Computer</string>
+    <string name="hvh">Player One VS Player Two</string>
+    <string name="Select_Options">Select Option </string>
+    <string-array name="additional_options">
+        <item>Start New Game</item>
+        <item>Exit Game</item>
+
+    </string-array>
+    <string name="title_activity_learn_to_play">LearnToPlay</string>
+    <string name="submit">Submit</string>
+
+
+</resources>
