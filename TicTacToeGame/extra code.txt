@@ -1,0 +1,20 @@
+<Button
+                android:layout_width="50dp"
+                android:layout_height="100dp"
+                android:text="@string/newGame"
+                android:id="@+id/newGame"
+               
+                android:layout_weight="0.32" />
+
+            <Button
+                style="?android:attr/buttonStyleSmall"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="@string/reset"
+                android:id="@+id/reset"
+                android:layout_weight="0.32"
+                android:background="@drawable/border_with_color"
+               
+                android:layout_marginTop="10dp"
+                android:onClick="onClickResetCounters"
+                android:layout_column="40" />
